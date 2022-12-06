@@ -1,0 +1,19 @@
+FRONT-END/Client side programming       Server side                             Database
+HTML/CSS                                   Java/Python/Nodejs/C/C++...           MySQL/Oracle/MSSQL/Post gre SQL/Mongodb....
+Javascript
+REACT/VUE/ANgular                               
+
+SInlge THread 
+Node js -- SIngle 
+Java --- multi thread programmin 
+
+
+Synchronus --- Execution will have happen in sequence, one after other 
+Asynchronous -- Execution will have happen in sequence, one after other but wait for completion task 
+
+
+Module systems 
+
+INternal module -- inernal for our development 
+Core module-- coming from node api
+External module ---This is has to be installed using NPM 
